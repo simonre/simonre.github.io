@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Simon Reinkemeier
 logo: /assets/img/photo_main.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Computer Science student at KIT and Software Engineer.
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-minimal
